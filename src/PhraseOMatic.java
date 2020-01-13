@@ -2,7 +2,7 @@
 public class PhraseOMatic {
 	
 	public static void main(String[] args) {
-		String[] listOne = {"Sun", "Tech", "Integrators", "PVt", "Limited", "HBR", "Hennur", "Cross" };
+		String[] listOne = {"Sun", "Tech", "Integrators", "PVt", "Limited", "HBR", "Hennur", "Cross", "tfgc" };
 		String[] listTwo = {"Java", "Technology", "Programming", "Head", "First", "James", "Goshling" };
 		String[] listThree = {"Integers", "String", "Arrays", "Char", "float", "double", "byte"};
 		
